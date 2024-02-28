@@ -1,5 +1,5 @@
 # Student-Management_EntityFramework-Console-Project 
-Summary : C#, EntityFramework, Console Application, Ms Sql - Database. 
+Summary : C#, EntityFramework, ORM, Console Application, Ms Sql - Database. 
 
 
 # Project : Student-Management-System 
