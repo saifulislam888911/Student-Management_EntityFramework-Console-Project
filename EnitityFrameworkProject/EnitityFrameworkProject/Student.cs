@@ -12,6 +12,7 @@ namespace EnitityFrameworkProject
         public string Name { get; set; }    
         public double Cgpa {  get; set; }
         public DateTime DateOfBirth { get; set; }
+        public string Address { get; set; }
 
     }
 }
